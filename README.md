@@ -63,4 +63,4 @@ you will return
 “THISISAREALLYGREATSENTENCE”
 ```
 
-Now write a function called ```decryptString``` which takes three parameters: a string to be decrypted and the integer shift value used to encrypt the string, and returns a string which contains the (normalized) plaintext. You can assume the string was encrypted by a call to encryptString().
+Now write a function called ```decryptString``` which takes three parameters: a string to be decrypted and the integer shift value used to encrypt the string, and returns a string which contains the (normalized) plaintext. You can assume the string was encrypted by a call to ```encryptString()```.
